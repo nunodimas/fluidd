@@ -16,7 +16,7 @@ Your moonraker configuration can usually be found here: `~/klipper_config/moonra
 
 ```yaml
 [server]
-host: 0.0.0.0
+host: 127.0.0.1
 port: 7125
 
 [file_manager]
